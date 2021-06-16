@@ -43,3 +43,14 @@ We use Oscar to generate the same amount of low-level captions so that we can sh
 ## Experiments
 Pretrain with COCO
 ![GT VL-BERT TRAIN](images/experiments.png)
+
+## Reference
+```
+https://github.com/jackroos/VL-BERT
+https://github.com/jamespark3922/visual-comet
+
+https://github.com/ruotianluo/self-critical.pytorch
+https://github.com/aimagelab/meshed-memory-transformer
+https://github.com/microsoft/Oscar
+https://github.com/airsplay/py-bottom-up-attention
+```
